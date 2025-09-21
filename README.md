@@ -102,13 +102,3 @@ Results:
 * [Not Diamond RepliQA Dataset](https://huggingface.co/datasets/notdiamond/repliqa_gpt4o_gpt4omini_evals)
 
 ---
-
-## ✍️ Author’s Note
-
-This implementation was part of a technical take-home for **Not Diamond**. It highlights:
-
-* Ability to **translate research papers into working code**.
-* Competence in **data wrangling, embeddings, ranking, and evaluation**.
-* Analytical rigor in identifying dataset bias and interpreting results.
-
- 
